@@ -11,7 +11,8 @@ The CAF **Agent of the Week**  (AotW) is an exemplary agentic application or ind
 2. [**IGNOS &mdash; Fusion Foundation Model** ](AotW-02-Ignos.md)
 3. [**Foam-Agent &mdash; Automating OpenFOAM CFD** ](AotW-03-FoamAgent.md)
 4. [**LABMATE-Supervisor &mdash; Accelerating catalysis research**](AotW-04-LABMATE-Supervisor.md)
-4. [**A2MC-Adaptive Multi-target Calibration for Earth System Models**](AotW-05-A2MC.md)
+5. [**A2MC-Adaptive Multi-target Calibration for Earth System Models**](AotW-05-A2MC.md)
+6. [**AISAC-AI Scientific Assistant Core**](AotW-06-AISAC.md)
 
 ## How to become an Agent of the Week
 
