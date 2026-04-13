@@ -11,7 +11,7 @@ Computational Fluid Dynamics (CFD) enables high-fidelity simulation for aerospac
 
 **Foam-Agent** is an LLM-based multi-agent framework that automates this end-to-end OpenFOAM workflow from a single natural language prompt, including **mesh generation/import, case file synthesis, HPC job script creation, execution, iterative self-correction, and post-processing visualization**. On **FoamBench (110 tasks)**, Foam-Agent reports an **88.2% executable success rate**—showing that specialized agents can substantially reduce the barrier to running correct, complete CFD simulations.
 
-![Foam-Agent System Architecture](https://raw.githubusercontent.com/csml-rpi/Foam-Agent/main/overview.png)
+![Foam-Agent System Architecture](https://github.com/csml-rpi/Foam-Agent/blob/main/overview.png)
 
 ---
 
@@ -159,5 +159,5 @@ This backend flexibility is a strong practical differentiator: teams can choose 
 
 ---
 
-*Last Updated: 02/26/2026*
+*Last Updated: 04/08/2026*
 *Contributed by: Ling Yue, [yuel2@rpi.edu](mailto:yuel2@rpi.edu). Shaowu Pan, [pans2@rpi.edu](mailto:pans2@rpi.edu)*
