@@ -3,7 +3,7 @@
 </p>
 
 
-# 06/22/2026 &mdash; AotW#08: PISCES &mdash; Multi-Model Consensus Extraction of Biochemical Process Flowsheets
+# 06/22/2026 &mdash; AotW#8: PISCES &mdash; Multi-Model Consensus Extraction of Biochemical Process Flowsheets
 
 
 ---
