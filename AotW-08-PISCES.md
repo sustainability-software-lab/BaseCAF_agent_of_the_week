@@ -19,7 +19,7 @@ Designing economically viable biomanufacturing processes requires learning from 
 
 
 <p align="center">
-  <img src="images/08-PISCES/PISCES2.png" width="60%" alt="PISCES Cyclic AI-driven Approach">
+  <img src="images/08-PISCES/PISCES2.png" width="70%" alt="PISCES Cyclic AI-driven Approach">
 </p>
 ---
 
@@ -39,7 +39,7 @@ Extracting a process flowsheet from a scientific paper is not a trivial task. It
 
 
 <p align="center">
-  <img src="images/08-PISCES/PISCES.png" width="60%" alt="Agentic Workflow">
+  <img src="images/08-PISCES/PISCES.png" width="70%" alt="Agentic Workflow">
 </p>
 
 
