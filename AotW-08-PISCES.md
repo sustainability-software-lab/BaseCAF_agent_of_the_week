@@ -21,6 +21,8 @@ Designing economically viable biomanufacturing processes requires learning from 
 <p align="center">
   <img src="images/08-PISCES/PISCES2.png" width="70%" alt="PISCES Cyclic AI-driven Approach">
 </p>
+
+
 ---
 
 
